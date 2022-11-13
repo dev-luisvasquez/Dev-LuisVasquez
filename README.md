@@ -17,13 +17,13 @@
 <p align="center" style="color: white;
 font-family: Source Code Pro;
 padding-left: px;
-font-size: 2vmax;"><span style="color: green;">TH3 FXCKER: </span> my name is Luis Vasquez _</br><span color: green>TH3 FXCKER: </span> i am a developer <strong>FrontEnd</strong> and i am currently studying <strong>BakcEnd</strong> to become <strong>FullStack</strong>_
+font-size: 2vmax;"><span>TH3 FXCKER: </span> my name is Luis Vasquez _</br><span color: green>TH3 FXCKER: </span> i am a developer <strong>FrontEnd</strong> and i am currently studying <strong>BakcEnd</strong> to become <strong>FullStack</strong> _
 
 <h2 align="center" style="color: white;">🖥️ Skills</h2>
 <p align="center" style="color: white;
 font-family: Source Code Pro;
 padding-left: px;
-font-size: 2vmax;"><span style="color: green;">TH3 FXCKER</span>Some of the programming languages ​​and frameworks I have learned: _</p>
+font-size: 2vmax;"><span style="color: green;">TH3 FXCKER: </span>Some of the programming languages ​​and frameworks I have learned _</p>
     <div align="center">
       <img src="https://lenguajejs.com/assets/logo.svg" height="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="100">
