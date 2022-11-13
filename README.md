@@ -17,7 +17,7 @@
 <p align="center" style="color: white;
 font-family: Source Code Pro;
 padding-left: px;
-font-size: 2vmax;"><span style="color: green;">TH3 FXCKER: </span> my name is Luis Vasquez _</br><span style="color: green;">TH3 FXCKER</span>: i am a developer <strong>FrontEnd</strong> and i am currently studying <strong>BakcEnd</strong> to become <strong>FullStack</strong>_
+font-size: 2vmax;"><span style="color: green;">TH3 FXCKER: </span> my name is Luis Vasquez _</br><span color: green>TH3 FXCKER: </span> i am a developer <strong>FrontEnd</strong> and i am currently studying <strong>BakcEnd</strong> to become <strong>FullStack</strong>_
 
 <h2 align="center" style="color: white;">🖥️ Skills</h2>
 <p align="center" style="color: white;
