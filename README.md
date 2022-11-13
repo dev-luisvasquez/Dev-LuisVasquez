@@ -8,7 +8,7 @@
 </head>
 <body>
       
-      <h1 align="center"> hello friend <br>
+      <h1 align="center"> hello friend
             i'm Luis Vasquez _</h1>
 <p align="center"><img src="https://c.tenor.com/2rbXXbmEAjMAAAAC/fsociety-code.gif"/></p>
 
