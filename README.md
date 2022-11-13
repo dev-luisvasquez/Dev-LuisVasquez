@@ -5,14 +5,10 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
-      <title>mi pagina</title>
 </head>
 <body>
       
-      <h1 align="center" style="color: white;
-      font-family: Source Code Pro;
-      font-size: 4vmax;
-      margin-top: 7vmax;"> hello friend <br>
+      <h1 align="center"> hello friend <br>
             i'm Luis Vasquez _</h1>
 <p align="center"><img src="https://c.tenor.com/2rbXXbmEAjMAAAAC/fsociety-code.gif"/></p>
 
@@ -40,10 +36,7 @@ font-size: 2vmax;"><span style="color: green;">TH3 FXCKER</span>Some of the prog
       <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/kotlin/kotlin.png" height="100"> -->
     </div>
 
-<style>
-@import url('https://fonts.cdnfonts.com/css/mrrobot');
 
-</style>
 
       
       
