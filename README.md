@@ -23,7 +23,7 @@ font-size: 2vmax;"><span>TH3 FXCKER: </span> my name is Luis Vasquez _</br><span
 <p align="center" style="color: white;
 font-family: Source Code Pro;
 padding-left: px;
-font-size: 2vmax;"><span style="color: green;">/textcolor{green}{TH3 FXCKER:} </span>Some of the programming languages ​​and frameworks I have learned _</p>
+font-size: 2vmax;"><span style="color: green;">\textcolor{green}{TH3 FXCKER:} </span>Some of the programming languages ​​and frameworks I have learned _</p>
     <div align="center">
       <img src="https://lenguajejs.com/assets/logo.svg" height="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="100">
