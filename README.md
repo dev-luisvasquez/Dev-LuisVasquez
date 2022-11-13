@@ -7,8 +7,8 @@
       <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
 </head>
 <body>
-      
-      <h1 align="center"> hello friend, i'm Luis Vasquez _</h1>
+      <h1 align="center">hello friend, i'm Luis Vasquez _</h1>
+
 <p align="center"><img src="https://c.tenor.com/2rbXXbmEAjMAAAAC/fsociety-code.gif"/></p>
 
 <h2 align="center" style="font-family: Source Code Pro; color: white"><img style="-webkit-filter: invert(100%);
